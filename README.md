@@ -7,3 +7,4 @@
 | 3 | Total number of continuous subarrays whose sum equals k | Array + Prefixsum + HashMap | 20 min | Done |
 | 4 | longest substring without repeating characters | string + hashmap + sliding window | 15 min | Done |
 | 5 | Longest substring with at most K distinct character | Two pointer + freq map | 25 min | Done |
+| 6 | maximum sum of any contiguous subarray of size k | TArray traversal | 10 min | Done |
