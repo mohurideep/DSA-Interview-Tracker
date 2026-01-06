@@ -9,3 +9,4 @@
 | 5 | Longest substring with at most K distinct character | Two pointer + freq map | 25 min | Done |
 | 6 | maximum sum of any contiguous subarray of size k | Array traversal | 10 min | Done |
 | 7 | maximum product of two elements | Array Mul | 10 min | Done |
+| 8 | Move all 0s to the end of the array in-place, while maintaining the relative order of non-zero element | Array Traverse | 10 min | Done |
