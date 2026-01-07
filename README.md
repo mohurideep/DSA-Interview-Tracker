@@ -11,3 +11,4 @@
 | 7 | maximum product of two elements | Array Mul | 10 min | Done |
 | 8 | Move all 0s to the end of the array in-place, while maintaining the relative order of non-zero element | Array Traverse | 10 min | Done |
 | 9 | maximum profit you can achieve by buying once and selling once | Array | 5 min | Done |
+| 10 | return the majority element | Array,Boyer–Moore Majority Vote Algorithm | 10 min | Done |
