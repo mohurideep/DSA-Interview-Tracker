@@ -13,3 +13,4 @@
 | 9 | maximum profit you can achieve by buying once and selling once | Array | 5 min | Done |
 | 10 | return the majority element | Array,Boyer–Moore Majority Vote Algorithm | 10 min | Done |
 | 11 | product of all elements of nums except nums[i] | Strong Array Fundamentals | 10 min | Done |
+| 12 | valid_palindrome | String | 10 min | Done |
