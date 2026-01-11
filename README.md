@@ -14,3 +14,4 @@
 | 10 | return the majority element | Array,Boyer–Moore Majority Vote Algorithm | 10 min | Done |
 | 11 | product of all elements of nums except nums[i] | Strong Array Fundamentals | 10 min | Done |
 | 12 | valid_palindrome | String | 10 min | Done |
+| 13 | Given a string s, determine if it has all unique characters | String | 10 min | Done |
