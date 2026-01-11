@@ -16,6 +16,7 @@ def is_palindrome(s: str) -> bool:
     # # filtered_chars = [char.lower() for char in s if char.isalnum()]
     # # return filtered_chars == filtered_chars[::-1] 
     # rejected because not o[1] space complexity
+    #below is with 0[1] complexity
     left, right = 0, len(s) - 1
 
     while left < right:
