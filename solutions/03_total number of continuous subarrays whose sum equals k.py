@@ -11,3 +11,15 @@ def subarray_sum_count(nums:list[int], k:int) -> int:
         prefix_map[prefix_sum] = prefix_map.get(prefix_sum,0)+1
 
     return count
+
+
+def subarray_sum_count(nums: list[int], k:int) -> int:
+    if not isinstance(nums, list) or not all(isinstance(x, int) for x in nums):
+        raise ValueError("Input must be a list of integers.")
+    count =0
+    n = len(nums)
+    for i in range(n):
+        for j in range(i,n):
+            if sum(nums[i:j+1]) == k:
+                count += 1
+    return count
