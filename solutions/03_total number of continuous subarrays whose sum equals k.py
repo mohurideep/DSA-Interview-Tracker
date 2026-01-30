@@ -13,7 +13,7 @@ def subarray_sum_count(nums:list[int], k:int) -> int:
     return count
 
 
-def subarray_sum_count(nums: list[int], k:int) -> int:
+def subarray_sum_count1(nums: list[int], k:int) -> int:
     if not isinstance(nums, list) or not all(isinstance(x, int) for x in nums):
         raise ValueError("Input must be a list of integers.")
     count =0
@@ -23,3 +23,5 @@ def subarray_sum_count(nums: list[int], k:int) -> int:
             if sum(nums[i:j+1]) == k:
                 count += 1
     return count
+
+print(subarray_sum_count([0,0,0],0))  # Output: 2
