@@ -29,5 +29,16 @@ def length_of_longest_substring1(s: str) -> int:
         
     return max_count
 
+def length_of_longest_substring2(s: str) -> int:
+    # O(n^2) solution
+    max_len = 0
+    for i in range(len(s)):
+        seen = set()
+        for j in range(i,len(s)):
+            if s[j] in seen:
+                break
+            seen.add(s[j])
+            max_len = max(max_len, j-i+1)
+    return max_len
 
-print (length_of_longest_substring1("pwwkew"))
+print (length_of_longest_substring2("pwwkew"))
