@@ -15,4 +15,4 @@
 | 11 | product of all elements of nums except nums[i] | Strong Array Fundamentals | 10 min | Done | Self-Study |
 | 12 | valid_palindrome | String | 10 min | Done | Self-Study |
 | 13 | Given a string s, determine if it has all unique characters | String | 10 min | Done | Self-Study |
-| 14 | Python function to check if a string is a palindrome | String | 10 min | Done | Auto Desk |
+| 14 | Python function to check if a string is a palindrome | String | 5 min | Done | Auto Desk |
