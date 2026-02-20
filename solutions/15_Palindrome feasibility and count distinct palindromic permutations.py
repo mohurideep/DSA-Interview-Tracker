@@ -62,3 +62,19 @@ def count_palindrome_permutations(s: str) -> int:
 
     # Return the number of distinct palindromic permutations
     return numerator // denominator
+
+print(count_palindrome_permutations("aabb"))  # Output: 2 (permutations: "abba", "baab")
+
+
+#factorial function
+def factorial(n: int) -> int:
+    if n == 0:
+        return 1
+    else:
+        return n * factorial(n-1)
+
+def factorial_simple(n: int) -> int:
+    result = 1
+    for i in range(2, n + 1):
+        result *= i
+    return result
