@@ -18,3 +18,4 @@
 | 14 | Python function to check if a string is a palindrome | String | 5 min | Done | Auto Desk |
 | 15 | Palindrome feasibility and count distinct palindromic permutations | String + Frequency Count + Combinatorics | 30 min | Done | Auto Desk |
 | 16.1 | Buble Sort | Sort, list  | 10 min | Done | Interview Quest |
+| 16.2 | Selection Sort | Sort, list  | 10 min | Done | Interview Quest |

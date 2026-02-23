@@ -1,7 +1,7 @@
 # using Buble sort 
 
 def sort_list_buble_1(nums: list[int]) -> list[int] :
-    # do not use this since it is not a correct bubble sort
+    # do not use this since it is not a correct bubble sort, since checking outer loop with all the inner loop
     for i in range(len(nums)):
         for j in range(i+1, len(nums)):
             if nums[i] > nums[j] :
