@@ -20,3 +20,4 @@
 | 16.1 | Buble Sort | Sort, list  | 10 min | Done | Interview Quest |
 | 16.2 | Selection Sort | Sort, list  | 10 min | Done | Interview Quest |
 | 16.3 | Insertion Sort | Sort, list  | 20 min | Done | Interview Quest |
+| 16.4 | Merge Sort | Sort, list  | 40 min | Done | Interview Quest |
