@@ -23,3 +23,4 @@
 | 16.4 | Merge Sort | Sort, list , recursion | 40 min | Done | Interview Quest |
 | 16.5 | Quick Sort | Sort, list , recursion | 50 min | Done | Interview Quest |
 | 17 | Merge 2 Sorted Array | Sort, list , Int | 10 min | Done | Interview Quest |
+| 18 | Generic Merge Function | Sort, list  | 10 min | Done | Interview Quest |

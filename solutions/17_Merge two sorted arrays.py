@@ -23,4 +23,9 @@ def merge_sorted_list(arr1 : list[int], arr2 : list[int]) -> list[int]:
     return result
 
 
-print(merge_sorted_list([1,2,3], [4,5,6]))
+# print(merge_sorted_list([1,2,3], [4,5,6]))
+
+# To take dynamic input
+arr1 = list(map(int, input("Enter elements of first sorted array separated by space: ").split()))
+arr2 = list(map(int, input("Enter elements of second sorted array separated by space: ").split()))
+print(merge_sorted_list(arr1, arr2))
