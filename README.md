@@ -24,3 +24,4 @@
 | 16.5 | Quick Sort | Sort, list , recursion | 50 min | Done | Interview Quest |
 | 17 | Merge 2 Sorted Array | Sort, list , Int | 10 min | Done | Interview Quest |
 | 18 | Generic Merge Function | Sort, list  | 10 min | Done | Interview Quest |
+| 19 | Count Word Freq and return top k | Sort, list, lambda  | 20 min | Done | Interview Quest |
