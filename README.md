@@ -26,3 +26,4 @@
 | 18 | Generic Merge Function | Sort, list  | 10 min | Done | Interview Quest |
 | 19 | Count Word Freq and return top k | Sort, list, lambda  | 20 min | Done | Interview Quest |
 | 20 | Remove duplicates while preserving order | dict, list, set  | 5 min | Done | Interview Quest |
+| 21 | Basic String Sanitization | regex, list comprehension, string operation  | 5 min | Done | Interview Quest |
