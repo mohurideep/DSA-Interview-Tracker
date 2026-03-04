@@ -37,3 +37,19 @@ def longest_valid_parentheses_dp(s: str) -> int:
     return max_length
 
 
+#time complexity o(n)
+def longest_valid_parentheses_stack(s: str) -> int:
+    max_length = 0
+    stack = [-1]
+    for i, char in enumerate(s):
+        if char == '(':
+            stack.append(i)
+        else:
+            stack.pop()
+            if not stack:
+                stack.append(i)
+            else:
+                max_length = max(max_length, i - stack[-1])
+    return max_length
+
+print(longest_valid_parentheses_stack(")()())"))  # Output: 4
