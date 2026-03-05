@@ -29,3 +29,4 @@
 | 21 | Basic String Sanitization | regex, list comprehension, string operation  | 5 min | Done | Interview Quest |
 | 22 | Case sensitive Palindrome | list comprehension, string operation  | 10 min | Done | Interview Quest |
 | 23 | In Place char cleaning | list operation, memory optimization  | 10 min | Done | Interview Quest |
+| 24 | Longest Valid parenthesis | tsack, DP | 10 min | Done | Interview Quest |
