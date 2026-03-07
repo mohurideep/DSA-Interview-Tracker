@@ -30,4 +30,4 @@
 | 22 | Case sensitive Palindrome | list comprehension, string operation  | 10 min | Done | Interview Quest |
 | 23 | In Place char cleaning | list operation, memory optimization  | 10 min | Done | Interview Quest |
 | 24 | Longest Valid parenthesis | stack, DP | 10 min | Done | Interview Quest |
-| 25 | Sort Arrary by Increasing Frequency|  | 20 min | Done | Interview Quest |
+| 25 | Sort Arrary by Increasing Frequency| hash map, lambda | 20 min | Done | Interview Quest |
