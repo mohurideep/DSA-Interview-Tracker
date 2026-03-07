@@ -31,4 +31,5 @@
 | 23 | In Place char cleaning | list operation, memory optimization  | 10 min | Done | Interview Quest |
 | 24 | Longest Valid parenthesis | stack, DP | 10 min | Done | Interview Quest |
 | 25 | Sort Arrary by Increasing Frequency| hash map, lambda | 20 min | Done | Interview Quest |
-| 26 | Flatten a Nested List| bruteforce, recusrion | 20 min | Done | Interview Quest |
+| 26.1 | Flatten a Nested List| bruteforce, recusrion | 20 min | Done | Interview Quest |
+| 26.2 | Flatten a Nested List using stack and yield| stack, yield | 20 min | Done | Interview Quest |
