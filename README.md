@@ -34,3 +34,4 @@
 | 26.1 | Flatten a Nested List| bruteforce, recusrion | 20 min | Done | Interview Quest |
 | 26.2 | Flatten a Nested List using stack and yield| stack, yield | 20 min | Done | Interview Quest |
 8th march break day
+| 27 | sum_numbers_in_string_regex| string, regex , state | 10 min | Done | Interview Quest |
