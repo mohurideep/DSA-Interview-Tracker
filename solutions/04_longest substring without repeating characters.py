@@ -29,6 +29,8 @@ def length_of_longest_substring1(s: str) -> int:
         
     return max_count
 
+
+#bruteforce approach
 def length_of_longest_substring2(s: str) -> int:
     # O(n^2) solution
     max_len = 0

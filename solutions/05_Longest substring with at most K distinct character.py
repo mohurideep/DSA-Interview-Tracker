@@ -19,7 +19,7 @@ def longest_substring_k_distinct(s:str, k:int) -> int:
     return max_length
 
 
-
+#bruteforce approach
 def longest_substring_k_distinct1(s: str, k: int) -> int:
     if len(s) == 0 or k == 0:
         return 0
