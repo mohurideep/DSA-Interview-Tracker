@@ -7,7 +7,7 @@
 | 3 | Total number of continuous subarrays whose sum equals k | Array + Prefixsum + HashMap | 20 min | Done | Self-Study |
 | 4 | longest substring without repeating characters | string + hashmap + sliding window | 15 min | Done | Self-Study |
 | 5 | Longest substring with at most K distinct character | Two pointer + freq map | 25 min | Done | Self-Study |
-| 6 | maximum sum of any contiguous subarray of size k | Array traversal | 10 min | Done | Self-Study |
+| 6 | maximum sum of any contiguous subarray of size k | Array traversal , Slicing array | 15 min | Done | Self-Study |
 | 7 | maximum product of two elements | Array Mul | 10 min | Done | Self-Study |
 | 8 | Move all 0s to the end of the array in-place, while maintaining the relative order of non-zero element | Array Traverse | 10 min | Done | Self-Study |
 | 9 | maximum profit you can achieve by buying once and selling once | Array | 5 min | Done | Self-Study |
