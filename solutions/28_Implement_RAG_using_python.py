@@ -1,3 +1,7 @@
+embed = None
+cosine_similarity = None
+llm = None
+
 # simplest RAG Function
 def rag(query, document):
     query_vec = embed(query)
