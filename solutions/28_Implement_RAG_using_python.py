@@ -106,3 +106,14 @@ if __name__ == "__main__":
     query = "What is RAG?"
     result = rag_pipeline(query)
     print(result)
+
+
+#Function for top -k retreival
+def top_k(query_embedding, document_embedding, k=3):
+    scores = []
+    for i,emb in enumerate(document_embedding):
+        score = cosine_similarity(query_embedding, emb)
+        scores.append((i, score))
+    scores.sort(key=lambda x: x[1], reverse=True)
+    top_indices = [i for i, _ in scores[:k]]
+    return top_indices
