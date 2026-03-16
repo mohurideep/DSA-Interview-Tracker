@@ -117,3 +117,15 @@ def top_k(query_embedding, document_embedding, k=3):
     scores.sort(key=lambda x: x[1], reverse=True)
     top_indices = [i for i, _ in scores[:k]]
     return top_indices
+
+# Implement Character based chunking
+def chunk_text(document, chunk_size=200, overlap=50):
+    chunks = []
+    start = 0
+
+    while start < len(document):
+        end = min(start + chunk_size, len(document))
+        chunks.append(document[start:end])
+        start = end - overlap  # move back by overlap for next chunk
+
+    return chunks
