@@ -35,3 +35,6 @@
 | 26.2 | Flatten a Nested List using stack and yield| stack, yield | 20 min | Done | Interview Quest |
 8th march break day
 | 27 | sum_numbers_in_string_regex| string, regex , state | 10 min | Done | Interview Quest |
+| 28 | Implement RAG Using python| rag | 30 min | Done | Virtusa |
+| 28.1 | Implement RAG Using langchain| rag, langchain | 30 min | Done | Virtusa |
+| 29 | Find the longest substring between two identical characters| string, dict | 10 min | Done | Amdocs |
